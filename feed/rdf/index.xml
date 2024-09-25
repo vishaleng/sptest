@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	>
+<channel rdf:about="http://localhost/dsgm-msd/customsite/customsite">
+	<title>SPH Media</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite</link>
+	<description>Singapore’s trusted news provider</description>
+	<dc:date>2023-09-06T07:07:30Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/"/>
+					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/">
+	<title>Lianhe Zaobao celebrates centennial with a brand refresh and four commemorative projects</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-09-06T07:07:28Z</dc:date>
+			<dc:subject><![CDATA[Media Centre]]></dc:subject>
+		<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 6 September 2023:&#160;To mark a century of journalistic endeavours, Lianhe Zaobao (LHZB), the flagship Chinese-language daily of SPH Media, celebrates its 100th anniversary today with a brand refresh and four commemorative projects.&#160; With the brand refresh, LHZB will deliver its brand promise of “Leading Conversations, With You” by continuing to provide trusted and unbiased [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/">
+	<title>Ten individuals and enterprises recognised for exemplary leadership in sustainability at the inaugural Sustainability Impact Awards</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-08-03T04:00:00Z</dc:date>
+			<dc:subject><![CDATA[Media Centre]]></dc:subject>
+		<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 3 August 2023&#160;– Ten individuals and enterprises were recognised for demonstrating exemplary leadership in sustainability at the inaugural Sustainability Impact Awards, jointly organised by UOB and The Business Times (BT). The awards in the Large Enterprise category were presented by Ms Grace Fu, Minister for Sustainability and the Environment, during the awards ceremony held [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/">
+	<title>Speech by Maureen Wee, Head (HR) at the SPH Media &#038; SPH Foundation Scholarship Ceremony 2023</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-07-28T08:00:00Z</dc:date>
+			<dc:subject><![CDATA[Media Centre]]></dc:subject>
+		<dc:subject><![CDATA[Speeches]]></dc:subject>
+
+			<description><![CDATA[SPEECH BY MS MAUREEN WEE, HEAD (HUMAN RESOURCES) AT THE SPH MEDIA &#38; SPH FOUNDATION SCHOLARSHIP AWARDS CEREMONY ON 28 JULY 2023 Good afternoon Mr Khaw Boon Wan, Chairman of SPH Media Trust; Ms Teo Lay Lim, CEO of SPH Media; Mr Roland Ng, Chairman of SPH Foundation; Scholarship recipients and family members; Distinguished guests, [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/">
+	<title>Mr Yao Hsiao Tung and Dr Zhou Lihan shine at the 38th Singapore Business Awards</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-07-25T14:00:00Z</dc:date>
+			<dc:subject><![CDATA[Media Centre]]></dc:subject>
+		<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 25 July 2023&#160;&#8211; The 38th Singapore Business Awards (SBA), which celebrates the best in businesses saw veteran businessman, Mr Yao Hsiao Tung, Founder and Chairman of Hi-P International, receiving the distinguished title, Businessman of the Year. His tenacity has enabled him to grow his business into one of Singapore’s largest and most diversified contract [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/">
+	<title>Findings by Audit and Risk Committee support SPH Media Group’s earlier review</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/</link>
+
+	<dc:creator><![CDATA[tset]]></dc:creator>
+	<dc:date>2023-06-21T08:31:32Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 21 June 2023 – SPH Media Group announces the findings from the investigations on overstated circulation figures*. The investigations conducted by SPH Media Holdings Board’s Audit and Risk Committee (ARC) concluded on 16 June 2023. The ARC has recommended that a police report be filed as certain observations may potentially constitute offences.&#160; Other recommendations [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/">
+	<title>Lianhe Zaobao’s first-ever Community eSports Day</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-06-10T07:34:55Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 10 June 2023 – Lianhe Zaobao (ZB)’s first-ever Community eSports Day saw teams across different ages compete in the popular mobile game &#8220;Mobile Legends: Bang Bang (MLBB)&#8221; at Sengkang Grand Mall this afternoon. As part of ZB’s centennial celebrations, the event aimed to engage audiences from multi-generational groups, particularly the younger audiences and young [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/">
+	<title>Lianhe Zaobao’s Centennial Art Exhibition 狮城美术 • 百年光华 100 years of Singapore Art</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-06-01T14:57:42Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[As part of its centennial celebrations, Lianhe Zaobao (ZB) launched the &#8220;100 Years of Singapore Art&#8220; (狮城美术 • 百年光华), an art exhibition jointly organised with Singapore Chinese Cultural Centre (SCCC).&#160; Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, was the Guest-of-Honour at the opening ceremony held today. It was [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/">
+	<title>Lianhe Zaobao’s centennial virtual comics exhibition features works about daily life of Singaporeans</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-05-21T11:29:10Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 21 May 2023 &#8211; Lianhe Zaobao (ZB), the flagship Chinese-language daily of SPH Media, has launched a virtual comics exhibition to celebrate its centennial anniversary. The exhibition was officially opened today by Ms Grace Fu, Minister for Sustainability and the Environment, at One Punggol Hawker Centre. The exhibition, titled &#8220;Scenes of Singapore Life (生活百态线上漫画展),&#8221; [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/">
+	<title>Results of the National Chinese Challenge Finals 2023</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-04-29T03:48:00Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Singapore, 29 April 2023 –&#160;This year’s National Chinese Challenge (NCC) saw Dunman High School and Tanjong Katong Primary School clinching the top positions in the secondary school and primary school categories, respectively. The finals took place this afternoon at CapitaLand Mall Bugis+, with the winners receiving the awards from the event&#8217;s Guest of Honour, Ms [&#8230;]]]></description>
+	
+	</item>
+<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/">
+	<title>‘Future Forecast’ storytelling competition invites youths to tell their stories on trends shaping the future</title>
+	<link>http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2023-04-21T03:44:54Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[Organised by Temasek and The Straits Times, Future Forecast is open to students from secondary to tertiary levels. Singapore, 21 April 2023 –&#160;In 2053, people could be living much longer lives, using new technology and shopping in the metaverse – all part of everyday life. A brand new nationwide storytelling competition, ‘Future Forecast’ – jointly [&#8230;]]]></description>
+	
+	</item>
+</rdf:RDF>
