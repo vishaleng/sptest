@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://localhost/dsgm-msd/customsite/feed/">
+		<meta http-equiv="refresh" content="0;url=https://msdx-frontend-uat.sph.com.sg/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://localhost/dsgm-msd/customsite/feed/";
+			window.location = "https://msdx-frontend-uat.sph.com.sg/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="http://localhost/dsgm-msd/customsite/feed/">http://localhost/dsgm-msd/customsite/feed/</a></p>
+		<p>You are being redirected to <a href="https://msdx-frontend-uat.sph.com.sg/feed/">https://msdx-frontend-uat.sph.com.sg/feed/</a></p>
 	</body>
 </html>

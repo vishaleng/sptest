@@ -6,144 +6,1014 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="http://localhost/dsgm-msd/customsite/customsite">
+<channel rdf:about="">
 	<title>SPH Media</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite</link>
+	<link></link>
 	<description>Singapore’s trusted news provider</description>
-	<dc:date>2023-09-06T07:07:30Z	</dc:date>
+	<dc:date>2024-08-22T06:42:39Z	</dc:date>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
+	
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/"/>
-					<rdf:li rdf:resource="http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-17/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-24/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-23/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-22/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans-16/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-21/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-16/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-20/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-15/"/>
+					<rdf:li rdf:resource="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers-5/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/">
-	<title>Lianhe Zaobao celebrates centennial with a brand refresh and four commemorative projects</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobao-celebrates-centennial-with-a-brand-refresh-and-four-commemorative-projects/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-17/">
+	<title>Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-17/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-09-06T07:07:28Z</dc:date>
-			<dc:subject><![CDATA[Media Centre]]></dc:subject>
-		<dc:subject><![CDATA[Media Releases]]></dc:subject>
-
-			<description><![CDATA[Singapore, 6 September 2023:&#160;To mark a century of journalistic endeavours, Lianhe Zaobao (LHZB), the flagship Chinese-language daily of SPH Media, celebrates its 100th anniversary today with a brand refresh and four commemorative projects.&#160; With the brand refresh, LHZB will deliver its brand promise of “Leading Conversations, With You” by continuing to provide trusted and unbiased [&#8230;]]]></description>
-	
-	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/">
-	<title>Ten individuals and enterprises recognised for exemplary leadership in sustainability at the inaugural Sustainability Impact Awards</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/ten-individuals-and-enterprises-recognised-for-exemplary-leadership-in-sustainability-at-the-inaugural-sustainability-impact-awards/</link>
-
-	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-08-03T04:00:00Z</dc:date>
-			<dc:subject><![CDATA[Media Centre]]></dc:subject>
-		<dc:subject><![CDATA[Media Releases]]></dc:subject>
-
-			<description><![CDATA[Singapore, 3 August 2023&#160;– Ten individuals and enterprises were recognised for demonstrating exemplary leadership in sustainability at the inaugural Sustainability Impact Awards, jointly organised by UOB and The Business Times (BT). The awards in the Large Enterprise category were presented by Ms Grace Fu, Minister for Sustainability and the Environment, during the awards ceremony held [&#8230;]]]></description>
-	
-	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/">
-	<title>Speech by Maureen Wee, Head (HR) at the SPH Media &#038; SPH Foundation Scholarship Ceremony 2023</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/speech-by-maureen-wee-head-hr-at-the-sph-media-sph-foundation-scholarship-ceremony-2023/</link>
-
-	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-07-28T08:00:00Z</dc:date>
-			<dc:subject><![CDATA[Media Centre]]></dc:subject>
-		<dc:subject><![CDATA[Speeches]]></dc:subject>
-
-			<description><![CDATA[SPEECH BY MS MAUREEN WEE, HEAD (HUMAN RESOURCES) AT THE SPH MEDIA &#38; SPH FOUNDATION SCHOLARSHIP AWARDS CEREMONY ON 28 JULY 2023 Good afternoon Mr Khaw Boon Wan, Chairman of SPH Media Trust; Ms Teo Lay Lim, CEO of SPH Media; Mr Roland Ng, Chairman of SPH Foundation; Scholarship recipients and family members; Distinguished guests, [&#8230;]]]></description>
-	
-	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/">
-	<title>Mr Yao Hsiao Tung and Dr Zhou Lihan shine at the 38th Singapore Business Awards</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/mr-yao-hsiao-tung-and-dr-zhou-lihan-shine-at-the-38th-singapore-business-awards/</link>
-
-	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-07-25T14:00:00Z</dc:date>
-			<dc:subject><![CDATA[Media Centre]]></dc:subject>
-		<dc:subject><![CDATA[Media Releases]]></dc:subject>
-
-			<description><![CDATA[Singapore, 25 July 2023&#160;&#8211; The 38th Singapore Business Awards (SBA), which celebrates the best in businesses saw veteran businessman, Mr Yao Hsiao Tung, Founder and Chairman of Hi-P International, receiving the distinguished title, Businessman of the Year. His tenacity has enabled him to grow his business into one of Singapore’s largest and most diversified contract [&#8230;]]]></description>
-	
-	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/">
-	<title>Findings by Audit and Risk Committee support SPH Media Group’s earlier review</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/findings-by-audit-and-risk-committee-support-sph-media-groups-earlier-review/</link>
-
-	<dc:creator><![CDATA[tset]]></dc:creator>
-	<dc:date>2023-06-21T08:31:32Z</dc:date>
+	<dc:date>2024-06-20T08:23:12Z</dc:date>
 			<dc:subject><![CDATA[Media Releases]]></dc:subject>
 
-			<description><![CDATA[Singapore, 21 June 2023 – SPH Media Group announces the findings from the investigations on overstated circulation figures*. The investigations conducted by SPH Media Holdings Board’s Audit and Risk Committee (ARC) concluded on 16 June 2023. The ARC has recommended that a police report be filed as certain observations may potentially constitute offences.&#160; Other recommendations [&#8230;]]]></description>
+			<description><![CDATA[<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975. “We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-17/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975.</p>
+
+
+
+<p>“We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a post on his Facebook account on Sunday.</p>
+
+
+
+<p>“If there is any further information that you may possess and which may have a bearing on the suit against The 1975 such as the location of their assets, please contact our pro bono team,” he added.</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-17/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/">
-	<title>Lianhe Zaobao’s first-ever Community eSports Day</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-first-ever-community-esports-day/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-24/">
+	<title>Overwhelming response for Shin Min Timeless Promise</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-24/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-06-10T07:34:55Z</dc:date>
-			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+	<dc:date>2024-06-20T08:23:12Z</dc:date>
+			<dc:subject><![CDATA[uncategorised]]></dc:subject>
 
-			<description><![CDATA[Singapore, 10 June 2023 – Lianhe Zaobao (ZB)’s first-ever Community eSports Day saw teams across different ages compete in the popular mobile game &#8220;Mobile Legends: Bang Bang (MLBB)&#8221; at Sengkang Grand Mall this afternoon. As part of ZB’s centennial celebrations, the event aimed to engage audiences from multi-generational groups, particularly the younger audiences and young [&#8230;]]]></description>
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event. At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-24/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromiseMontage.webp" alt="" class="wp-image-24054" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8c0e04ed0d20eb255785980c16b62c05"><a class="wp-block-button__link wp-element-button" href="https://fb.watch/maUeemAi67/" target="_blank" rel="noreferrer noopener"> Watch: Event highlights </a></div>
+</div>
+
+
+
+<p>The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event.</p>
+
+
+
+<p>At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over 50 years, made the heartwarming decision to renew their marriage vows in the presence of their family and friends.</p>
+
+
+
+<p>The ceremony was officiated by Justice of the Peace Mr. Toh Soon Huat, who is also the Voluntary Executive Chairman of Sian Chay Medical Institution.</p>
+
+
+
+<p>An exclusive 4-course Peranakan luncheon menu was curated by the hotel specially for the event. Couples and guests were wrapped in the romantic atmosphere of the exquisitely decorated space. Performers Ji Xiang and Hui Bing, a couple themselves, crooned specially curated love songs that resonated with the married couples.</p>
+
+
+
+<p>Event sponsors Frederiksdal and Resorts World Cruises provided exclusive promotions at their sponsor booths.</p>
+
+
+
+<p>Each couple received a vow renewal certificate, a floral bouquet and a complimentary bottle of Frederiksdal Sparkling RØD cherry wine worth $109. Lucky draw prizes worth more than $3,500 — including a pair of Resorts World Cruises balcony stateroom tickets — were also given out.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Overwhelming response</strong><br></h5>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_headerimage.webp" alt="" class="wp-image-24068" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>Readers started calling the hotline the moment the event was publicised on Shin Min, while radio listeners messaged the radio DJs of UFM100.3 and 96.3好FM to ask for the registration link.</p>
+
+
+
+<p>The overwhelming response to the event surprised even Shin Min Daily News editor Mr. Choo Chee Wee, as they initially projected to host only 20 couples and their guests at the vow renewal ceremony.</p>
+
+
+
+<p>He said, “As this is the first time for Shin Min to hold this event, I did not expect to have such an enthusiastic response with so many couples signing up.”</p>
+
+
+
+<p>The event itself proved to be a resounding success, with all attendees saying they would recommend their friends and relatives to take part should it be held again next year.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Event idea inspired by wine</strong><br></h5>
+
+
+
+<p>Mr. Choo related that the idea for the event was inspired by a wine tasting of the cherry wine produced by the Frederiksdal winery in Denmark, the event’s main sponsor.</p>
+
+
+
+<p>Just as the mellow body of the cherry wine was developed after decades of the winemaking process, the same goes for the love of married couples who have lasted the test of time.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_couple2.webp" alt="" class="wp-image-24070" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>“Today’s event is the most powerful testimony of a long and lasting marriage because the requirement to participate is to be married for at least 10 years. If we calculate the total number of years our couples have been married, it would reach 2,471 years!” said Mr Choo.</p>
+
+
+
+<section id="cta-banner-block_fbe1b5f85c261fcb1289234989359737" class="top-border-60 bottom-floating-rounded-cover cta-banner  default bg-white section-rounded-border">
+    <div class="container-xl cta-banner__container">
+        <div class="cta-banner__content">
+            <div class="cta-banner__title">Optimise your marketing campaigns with the latest offers and updates from SPH Media</div>
+            <div class="cta-banner__btn">
+                                    <a href="#"
+                        target="_self"
+                        class="cta cta-primary d-inline-block">
+                        Subscribe now                    </a>
+
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <section id="section-content-lists-block_e99497cdd1f2bd65b699f1b5326c2fdd"
+             class="section-content-lists default bg-white top-border-60 section-rounded-border">
+            <div class="container-xl">
+                <div class="section-content-lists-title">
+                    <h2>Related Pages</h2>
+                </div>
+                <div class="section-content-lists-main d-flex justify-content-between">
+                                                <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/">Print Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        We are delighted in your interest in our Print Platform. Let us help you get started with a preview of our Terms & Conditions.                                    </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/">Out-of-Home Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                                                            </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/">Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        SPH Media General Terms and Conditions and guidelines are available for your reference. Please click to read more.                                     </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </section>
+
+    <p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-24/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/">
-	<title>Lianhe Zaobao’s Centennial Art Exhibition 狮城美术 • 百年光华 100 years of Singapore Art</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-art-exhibition-100-years-of-singapore-art/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-23/">
+	<title>Overwhelming response for Shin Min Timeless Promise</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-23/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-06-01T14:57:42Z</dc:date>
-			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+	<dc:date>2024-06-20T08:23:11Z</dc:date>
+			<dc:subject><![CDATA[uncategorised]]></dc:subject>
 
-			<description><![CDATA[As part of its centennial celebrations, Lianhe Zaobao (ZB) launched the &#8220;100 Years of Singapore Art&#8220; (狮城美术 • 百年光华), an art exhibition jointly organised with Singapore Chinese Cultural Centre (SCCC).&#160; Dr Tan See Leng, Minister for Manpower and Second Minister for Trade and Industry, was the Guest-of-Honour at the opening ceremony held today. It was [&#8230;]]]></description>
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event. At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-23/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromiseMontage.webp" alt="" class="wp-image-24054" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8c0e04ed0d20eb255785980c16b62c05"><a class="wp-block-button__link wp-element-button" href="https://fb.watch/maUeemAi67/" target="_blank" rel="noreferrer noopener"> Watch: Event highlights </a></div>
+</div>
+
+
+
+<p>The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event.</p>
+
+
+
+<p>At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over 50 years, made the heartwarming decision to renew their marriage vows in the presence of their family and friends.</p>
+
+
+
+<p>The ceremony was officiated by Justice of the Peace Mr. Toh Soon Huat, who is also the Voluntary Executive Chairman of Sian Chay Medical Institution.</p>
+
+
+
+<p>An exclusive 4-course Peranakan luncheon menu was curated by the hotel specially for the event. Couples and guests were wrapped in the romantic atmosphere of the exquisitely decorated space. Performers Ji Xiang and Hui Bing, a couple themselves, crooned specially curated love songs that resonated with the married couples.</p>
+
+
+
+<p>Event sponsors Frederiksdal and Resorts World Cruises provided exclusive promotions at their sponsor booths.</p>
+
+
+
+<p>Each couple received a vow renewal certificate, a floral bouquet and a complimentary bottle of Frederiksdal Sparkling RØD cherry wine worth $109. Lucky draw prizes worth more than $3,500 — including a pair of Resorts World Cruises balcony stateroom tickets — were also given out.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Overwhelming response</strong><br></h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_headerimage.webp" alt="" class="wp-image-24068" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>Readers started calling the hotline the moment the event was publicised on Shin Min, while radio listeners messaged the radio DJs of UFM100.3 and 96.3好FM to ask for the registration link.</p>
+
+
+
+<p>The overwhelming response to the event surprised even Shin Min Daily News editor Mr. Choo Chee Wee, as they initially projected to host only 20 couples and their guests at the vow renewal ceremony.</p>
+
+
+
+<p>He said, “As this is the first time for Shin Min to hold this event, I did not expect to have such an enthusiastic response with so many couples signing up.”</p>
+
+
+
+<p>The event itself proved to be a resounding success, with all attendees saying they would recommend their friends and relatives to take part should it be held again next year.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Event idea inspired by wine</strong><br></h5>
+
+
+
+<p>Mr. Choo related that the idea for the event was inspired by a wine tasting of the cherry wine produced by the Frederiksdal winery in Denmark, the event’s main sponsor.</p>
+
+
+
+<p>Just as the mellow body of the cherry wine was developed after decades of the winemaking process, the same goes for the love of married couples who have lasted the test of time.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_couple2.webp" alt="" class="wp-image-24070" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>“Today’s event is the most powerful testimony of a long and lasting marriage because the requirement to participate is to be married for at least 10 years. If we calculate the total number of years our couples have been married, it would reach 2,471 years!” said Mr Choo.</p>
+
+
+
+<section id="cta-banner-block_f97a18b867f6d9a57793277b63d0b659" class="top-border-60 bottom-floating-rounded-cover cta-banner  default bg-white section-rounded-border">
+    <div class="container-xl cta-banner__container">
+        <div class="cta-banner__content">
+            <div class="cta-banner__title">Optimise your marketing campaigns with the latest offers and updates from SPH Media</div>
+            <div class="cta-banner__btn">
+                                    <a href="#"
+                        target="_self"
+                        class="cta cta-primary d-inline-block">
+                        Subscribe now                    </a>
+
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <section id="section-content-lists-block_337d88e83cbf427a08115d09928a435c"
+             class="section-content-lists default bg-white top-border-60 section-rounded-border">
+            <div class="container-xl">
+                <div class="section-content-lists-title">
+                    <h2>Related Pages</h2>
+                </div>
+                <div class="section-content-lists-main d-flex justify-content-between">
+                                                <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/">Print Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        We are delighted in your interest in our Print Platform. Let us help you get started with a preview of our Terms & Conditions.                                    </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/">Out-of-Home Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                                                            </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/">Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        SPH Media General Terms and Conditions and guidelines are available for your reference. Please click to read more.                                     </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </section>
+
+    <p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-23/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/">
-	<title>Lianhe Zaobao’s centennial virtual comics exhibition features works about daily life of Singaporeans</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-22/">
+	<title>Overwhelming response for Shin Min Timeless Promise</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-22/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-05-21T11:29:10Z</dc:date>
-			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+	<dc:date>2024-06-20T08:23:11Z</dc:date>
+			<dc:subject><![CDATA[uncategorised]]></dc:subject>
 
-			<description><![CDATA[Singapore, 21 May 2023 &#8211; Lianhe Zaobao (ZB), the flagship Chinese-language daily of SPH Media, has launched a virtual comics exhibition to celebrate its centennial anniversary. The exhibition was officially opened today by Ms Grace Fu, Minister for Sustainability and the Environment, at One Punggol Hawker Centre. The exhibition, titled &#8220;Scenes of Singapore Life (生活百态线上漫画展),&#8221; [&#8230;]]]></description>
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event. At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-22/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromiseMontage.webp" alt="" class="wp-image-24054" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8c0e04ed0d20eb255785980c16b62c05"><a class="wp-block-button__link wp-element-button" href="https://fb.watch/maUeemAi67/" target="_blank" rel="noreferrer noopener"> Watch: Event highlights </a></div>
+</div>
+
+
+
+<p>The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event.</p>
+
+
+
+<p>At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over 50 years, made the heartwarming decision to renew their marriage vows in the presence of their family and friends.</p>
+
+
+
+<p>The ceremony was officiated by Justice of the Peace Mr. Toh Soon Huat, who is also the Voluntary Executive Chairman of Sian Chay Medical Institution.</p>
+
+
+
+<p>An exclusive 4-course Peranakan luncheon menu was curated by the hotel specially for the event. Couples and guests were wrapped in the romantic atmosphere of the exquisitely decorated space. Performers Ji Xiang and Hui Bing, a couple themselves, crooned specially curated love songs that resonated with the married couples.</p>
+
+
+
+<p>Event sponsors Frederiksdal and Resorts World Cruises provided exclusive promotions at their sponsor booths.</p>
+
+
+
+<p>Each couple received a vow renewal certificate, a floral bouquet and a complimentary bottle of Frederiksdal Sparkling RØD cherry wine worth $109. Lucky draw prizes worth more than $3,500 — including a pair of Resorts World Cruises balcony stateroom tickets — were also given out.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Overwhelming response</strong><br></h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_headerimage.webp" alt="" class="wp-image-24068" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>Readers started calling the hotline the moment the event was publicised on Shin Min, while radio listeners messaged the radio DJs of UFM100.3 and 96.3好FM to ask for the registration link.</p>
+
+
+
+<p>The overwhelming response to the event surprised even Shin Min Daily News editor Mr. Choo Chee Wee, as they initially projected to host only 20 couples and their guests at the vow renewal ceremony.</p>
+
+
+
+<p>He said, “As this is the first time for Shin Min to hold this event, I did not expect to have such an enthusiastic response with so many couples signing up.”</p>
+
+
+
+<p>The event itself proved to be a resounding success, with all attendees saying they would recommend their friends and relatives to take part should it be held again next year.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Event idea inspired by wine</strong><br></h5>
+
+
+
+<p>Mr. Choo related that the idea for the event was inspired by a wine tasting of the cherry wine produced by the Frederiksdal winery in Denmark, the event’s main sponsor.</p>
+
+
+
+<p>Just as the mellow body of the cherry wine was developed after decades of the winemaking process, the same goes for the love of married couples who have lasted the test of time.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_couple2.webp" alt="" class="wp-image-24070" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>“Today’s event is the most powerful testimony of a long and lasting marriage because the requirement to participate is to be married for at least 10 years. If we calculate the total number of years our couples have been married, it would reach 2,471 years!” said Mr Choo.</p>
+
+
+
+<section id="cta-banner-block_8c3166dce3b3c483e143ce1492d9594f" class="top-border-60 bottom-floating-rounded-cover cta-banner  default bg-white section-rounded-border">
+    <div class="container-xl cta-banner__container">
+        <div class="cta-banner__content">
+            <div class="cta-banner__title">Optimise your marketing campaigns with the latest offers and updates from SPH Media</div>
+            <div class="cta-banner__btn">
+                                    <a href="#"
+                        target="_self"
+                        class="cta cta-primary d-inline-block">
+                        Subscribe now                    </a>
+
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <section id="section-content-lists-block_10b46d26d509a984cfb6de541dd9aa6e"
+             class="section-content-lists default bg-white top-border-60 section-rounded-border">
+            <div class="container-xl">
+                <div class="section-content-lists-title">
+                    <h2>Related Pages</h2>
+                </div>
+                <div class="section-content-lists-main d-flex justify-content-between">
+                                                <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/">Print Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        We are delighted in your interest in our Print Platform. Let us help you get started with a preview of our Terms & Conditions.                                    </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/">Out-of-Home Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                                                            </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/">Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        SPH Media General Terms and Conditions and guidelines are available for your reference. Please click to read more.                                     </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </section>
+
+    <p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-22/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/">
-	<title>Results of the National Chinese Challenge Finals 2023</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/results-of-the-national-chinese-challenge-finals-2023/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans-16/">
+	<title>test filter category</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans-16/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-04-29T03:48:00Z</dc:date>
+	<dc:date>2024-06-20T08:23:10Z</dc:date>
 			<dc:subject><![CDATA[Media Releases]]></dc:subject>
 
-			<description><![CDATA[Singapore, 29 April 2023 –&#160;This year’s National Chinese Challenge (NCC) saw Dunman High School and Tanjong Katong Primary School clinching the top positions in the secondary school and primary school categories, respectively. The finals took place this afternoon at CapitaLand Mall Bugis+, with the winners receiving the awards from the event&#8217;s Guest of Honour, Ms [&#8230;]]]></description>
+			<description><![CDATA[<p>Singapore, 21 May 2023 - Lianhe Zaobao (ZB), the flagship Chinese-language daily of SPH Media, has launched a virtual comics exhibition to celebrate its centennial anniversary. The exhibition was officially opened today by Ms Grace Fu, Minister for Sustainability and the Environment, at One Punggol Hawker Centre. The exhibition, titled "Scenes of Singapore Life (生活百态线上漫画展)," [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans-16/">test filter category</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<p><strong>Singapore, 21 May 2023 </strong>- Lianhe Zaobao (ZB), the flagship Chinese-language daily of SPH Media, has launched a virtual comics exhibition to celebrate its centennial anniversary. The exhibition was officially opened today by Ms Grace Fu, Minister for Sustainability and the Environment, at One Punggol Hawker Centre.</p>
+
+
+
+<p>The exhibition, titled "Scenes of Singapore Life (生活百态线上漫画展)," will showcase 100 works by ZB’s comic artists. These comics present a thoughtful and humorous look at the everyday life of Singaporeans, covering &nbsp; areas&nbsp; such as food, environment, transportation, technology and the Covid-19 pandemic. The comics, with English translations, are available online on&nbsp; ZB’s interactive website <a href="https://bit.ly/zaobao100-comics" target="_blank" rel="noreferrer noopener">https://bit.ly/zaobao100-comics</a>.</p>
+
+
+
+<p>Members of the public can scan the QR code on the stickers to view all 100 works online. The public can also take part in a Vote-n-Win contest by voting for their favourite comics to win shopping vouchers. A total of 10 participants will stand to win $50 worth of shopping vouchers each week during the exhibition period.&nbsp;</p>
+
+
+
+<p>Mr Tan Chong Beng, Visual Director, Chinese Media Group, SPH Media, who is one of the 10 featured comic artists for this exhibition, said: “Comics have evolved over time from print to digital, but they still serve the purpose of adding humour to make newspaper reading fun and interesting. I hope that our creative contributions will continue to provide readers with memorable reading experiences.”&nbsp;</p>
+
+
+
+<p>More details about the ZB Centennial Virtual Comics Exhibition can be found in the attached <a href="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/06/Annex-ZB-Virtual-Comics-Exhibition-ZB100.pdf" target="_blank" rel="noreferrer noopener">Annex</a> or via <a href="https://bit.ly/zaobao100-comics" target="_blank" rel="noreferrer noopener">https://bit.ly/zaobao100-comics</a>.</p>
+
+
+
+<p><strong>For media queries, please contact:</strong></p>
+
+
+
+<p>Francis Mah<br>Assistant Vice-President<br>Corporate Marketing &amp; Communications<br>SPH Media<br>DID: 6319 1028<br>Email: <a href="mailto:mahys@sph.com.sg">mahys@sph.com.sg</a></p>
+
+
+
+<p><strong>About SPH Media</strong></p>
+
+
+
+<p>SPH Media is a leading media group, with operations in the publishing of newspapers, magazines, and books in both print and digital editions. It also owns and operates other businesses such as radio stations and outdoor media. The mission of SPH Media is to be the trusted source of news on Singapore and Asia, to represent the communities that make up Singapore, and to connect them to the world. The businesses are held by SPH Media Trust, a public company limited by guarantee. For more information on SPH Media, please visit <a href="https://www.sph.com.sg/" target="_blank" rel="noreferrer noopener">www.sph.com.sg</a>, and our social media channels on <a href="https://www.facebook.com/SPHMediaLtd" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="https://www.instagram.com/SPHMediaTrust/" target="_blank" rel="noreferrer noopener">Instagram</a>, <a href="https://www.linkedin.com/company/sphmedia?originalSubdomain=sg" target="_blank" rel="noreferrer noopener">LinkedIn</a>, and <a href="https://www.youtube.com/c/SPHMediaTrust" target="_blank" rel="noreferrer noopener">YouTube</a>.</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/lianhe-zaobaos-centennial-virtual-comics-exhibition-features-works-about-daily-life-of-singaporeans-16/">test filter category</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
-<item rdf:about="http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/">
-	<title>‘Future Forecast’ storytelling competition invites youths to tell their stories on trends shaping the future</title>
-	<link>http://localhost/dsgm-msd/customsite/customsite/future-forecast-storytelling-competition-invites-youths-to-tell-their-stories-on-trends-shaping-the-future/</link>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-21/">
+	<title>Overwhelming response for Shin Min Timeless Promise</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-21/</link>
 
 	<dc:creator><![CDATA[]]></dc:creator>
-	<dc:date>2023-04-21T03:44:54Z</dc:date>
+	<dc:date>2024-06-20T08:23:10Z</dc:date>
+			<dc:subject><![CDATA[uncategorised]]></dc:subject>
+
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event. At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-21/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromiseMontage.webp" alt="" class="wp-image-24054" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8c0e04ed0d20eb255785980c16b62c05"><a class="wp-block-button__link wp-element-button" href="https://fb.watch/maUeemAi67/" target="_blank" rel="noreferrer noopener"> Watch: Event highlights </a></div>
+</div>
+
+
+
+<p>The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event.</p>
+
+
+
+<p>At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over 50 years, made the heartwarming decision to renew their marriage vows in the presence of their family and friends.</p>
+
+
+
+<p>The ceremony was officiated by Justice of the Peace Mr. Toh Soon Huat, who is also the Voluntary Executive Chairman of Sian Chay Medical Institution.</p>
+
+
+
+<p>An exclusive 4-course Peranakan luncheon menu was curated by the hotel specially for the event. Couples and guests were wrapped in the romantic atmosphere of the exquisitely decorated space. Performers Ji Xiang and Hui Bing, a couple themselves, crooned specially curated love songs that resonated with the married couples.</p>
+
+
+
+<p>Event sponsors Frederiksdal and Resorts World Cruises provided exclusive promotions at their sponsor booths.</p>
+
+
+
+<p>Each couple received a vow renewal certificate, a floral bouquet and a complimentary bottle of Frederiksdal Sparkling RØD cherry wine worth $109. Lucky draw prizes worth more than $3,500 — including a pair of Resorts World Cruises balcony stateroom tickets — were also given out.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Overwhelming response</strong><br></h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_headerimage.webp" alt="" class="wp-image-24068" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>Readers started calling the hotline the moment the event was publicised on Shin Min, while radio listeners messaged the radio DJs of UFM100.3 and 96.3好FM to ask for the registration link.</p>
+
+
+
+<p>The overwhelming response to the event surprised even Shin Min Daily News editor Mr. Choo Chee Wee, as they initially projected to host only 20 couples and their guests at the vow renewal ceremony.</p>
+
+
+
+<p>He said, “As this is the first time for Shin Min to hold this event, I did not expect to have such an enthusiastic response with so many couples signing up.”</p>
+
+
+
+<p>The event itself proved to be a resounding success, with all attendees saying they would recommend their friends and relatives to take part should it be held again next year.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Event idea inspired by wine</strong><br></h5>
+
+
+
+<p>Mr. Choo related that the idea for the event was inspired by a wine tasting of the cherry wine produced by the Frederiksdal winery in Denmark, the event’s main sponsor.</p>
+
+
+
+<p>Just as the mellow body of the cherry wine was developed after decades of the winemaking process, the same goes for the love of married couples who have lasted the test of time.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_couple2.webp" alt="" class="wp-image-24070" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>“Today’s event is the most powerful testimony of a long and lasting marriage because the requirement to participate is to be married for at least 10 years. If we calculate the total number of years our couples have been married, it would reach 2,471 years!” said Mr Choo.</p>
+
+
+
+<section id="cta-banner-block_b8851045a4e03000a866e563eb6140c5" class="top-border-60 bottom-floating-rounded-cover cta-banner  default bg-white section-rounded-border">
+    <div class="container-xl cta-banner__container">
+        <div class="cta-banner__content">
+            <div class="cta-banner__title">Optimise your marketing campaigns with the latest offers and updates from SPH Media</div>
+            <div class="cta-banner__btn">
+                                    <a href="#"
+                        target="_self"
+                        class="cta cta-primary d-inline-block">
+                        Subscribe now                    </a>
+
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <section id="section-content-lists-block_579013650756406fb2fc83da7818f5bf"
+             class="section-content-lists default bg-white top-border-60 section-rounded-border">
+            <div class="container-xl">
+                <div class="section-content-lists-title">
+                    <h2>Related Pages</h2>
+                </div>
+                <div class="section-content-lists-main d-flex justify-content-between">
+                                                <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/">Print Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        We are delighted in your interest in our Print Platform. Let us help you get started with a preview of our Terms & Conditions.                                    </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/">Out-of-Home Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                                                            </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/">Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        SPH Media General Terms and Conditions and guidelines are available for your reference. Please click to read more.                                     </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </section>
+
+    <p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-21/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
+	
+	</item>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-16/">
+	<title>Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-16/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2024-06-20T08:23:09Z</dc:date>
 			<dc:subject><![CDATA[Media Releases]]></dc:subject>
 
-			<description><![CDATA[Organised by Temasek and The Straits Times, Future Forecast is open to students from secondary to tertiary levels. Singapore, 21 April 2023 –&#160;In 2053, people could be living much longer lives, using new technology and shopping in the metaverse – all part of everyday life. A brand new nationwide storytelling competition, ‘Future Forecast’ – jointly [&#8230;]]]></description>
+			<description><![CDATA[<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975. “We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-16/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975.</p>
+
+
+
+<p>“We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a post on his Facebook account on Sunday.</p>
+
+
+
+<p>“If there is any further information that you may possess and which may have a bearing on the suit against The 1975 such as the location of their assets, please contact our pro bono team,” he added.</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-16/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
+	
+	</item>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-20/">
+	<title>Overwhelming response for Shin Min Timeless Promise</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-20/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2024-06-20T08:23:09Z</dc:date>
+			<dc:subject><![CDATA[uncategorised]]></dc:subject>
+
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event. At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-20/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromiseMontage.webp" alt="" class="wp-image-24054" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromiseMontage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8c0e04ed0d20eb255785980c16b62c05"><a class="wp-block-button__link wp-element-button" href="https://fb.watch/maUeemAi67/" target="_blank" rel="noreferrer noopener"> Watch: Event highlights </a></div>
+</div>
+
+
+
+<p>The 22nd of July this year marked a new milestone in the lives of 80 couples who took part in the inaugural edition of the Shin Min Timeless Promise event.</p>
+
+
+
+<p>At the picturesque urban wedding resort setting of Paradox Singapore Merchant Court at Clarke Quay, these couples, five of whom have been married for over 50 years, made the heartwarming decision to renew their marriage vows in the presence of their family and friends.</p>
+
+
+
+<p>The ceremony was officiated by Justice of the Peace Mr. Toh Soon Huat, who is also the Voluntary Executive Chairman of Sian Chay Medical Institution.</p>
+
+
+
+<p>An exclusive 4-course Peranakan luncheon menu was curated by the hotel specially for the event. Couples and guests were wrapped in the romantic atmosphere of the exquisitely decorated space. Performers Ji Xiang and Hui Bing, a couple themselves, crooned specially curated love songs that resonated with the married couples.</p>
+
+
+
+<p>Event sponsors Frederiksdal and Resorts World Cruises provided exclusive promotions at their sponsor booths.</p>
+
+
+
+<p>Each couple received a vow renewal certificate, a floral bouquet and a complimentary bottle of Frederiksdal Sparkling RØD cherry wine worth $109. Lucky draw prizes worth more than $3,500 — including a pair of Resorts World Cruises balcony stateroom tickets — were also given out.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Overwhelming response</strong><br></h5>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_headerimage.webp" alt="" class="wp-image-24068" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_headerimage-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>Readers started calling the hotline the moment the event was publicised on Shin Min, while radio listeners messaged the radio DJs of UFM100.3 and 96.3好FM to ask for the registration link.</p>
+
+
+
+<p>The overwhelming response to the event surprised even Shin Min Daily News editor Mr. Choo Chee Wee, as they initially projected to host only 20 couples and their guests at the vow renewal ceremony.</p>
+
+
+
+<p>He said, “As this is the first time for Shin Min to hold this event, I did not expect to have such an enthusiastic response with so many couples signing up.”</p>
+
+
+
+<p>The event itself proved to be a resounding success, with all attendees saying they would recommend their friends and relatives to take part should it be held again next year.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Event idea inspired by wine</strong><br></h5>
+
+
+
+<p>Mr. Choo related that the idea for the event was inspired by a wine tasting of the cherry wine produced by the Frederiksdal winery in Denmark, the event’s main sponsor.</p>
+
+
+
+<p>Just as the mellow body of the cherry wine was developed after decades of the winemaking process, the same goes for the love of married couples who have lasted the test of time.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="450" src="https://msdx-uat.sph.com.sg/wp-content/uploads/2023/09/SMTimelessPromise_couple2.webp" alt="" class="wp-image-24070" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2.webp 800w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2023/09/SMTimelessPromise_couple2-768x432.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<p>“Today’s event is the most powerful testimony of a long and lasting marriage because the requirement to participate is to be married for at least 10 years. If we calculate the total number of years our couples have been married, it would reach 2,471 years!” said Mr Choo.</p>
+
+
+
+<section id="cta-banner-block_706a3d24b6a5209d8d2a0d46ad5f5ff1" class="top-border-60 bottom-floating-rounded-cover cta-banner  default bg-white section-rounded-border">
+    <div class="container-xl cta-banner__container">
+        <div class="cta-banner__content">
+            <div class="cta-banner__title">Optimise your marketing campaigns with the latest offers and updates from SPH Media</div>
+            <div class="cta-banner__btn">
+                                    <a href="#"
+                        target="_self"
+                        class="cta cta-primary d-inline-block">
+                        Subscribe now                    </a>
+
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    <section id="section-content-lists-block_1a1199af59caeed17d774362fd0bafe2"
+             class="section-content-lists default bg-white top-border-60 section-rounded-border">
+            <div class="container-xl">
+                <div class="section-content-lists-title">
+                    <h2>Related Pages</h2>
+                </div>
+                <div class="section-content-lists-main d-flex justify-content-between">
+                                                <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/">Print Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        We are delighted in your interest in our Print Platform. Let us help you get started with a preview of our Terms & Conditions.                                    </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/print_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/">Out-of-Home Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                                                            </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/out_of_home_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                                        <div class="section-content-lists-main-item">
+                                <div class="item-content d-flex flex-column">
+                                                                            <h5 class="item-heading">
+                                            <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/">Advertising Terms &amp; Conditions</a>
+                                        </h5>
+                                                                        <div class="item-description flex-grow-1">
+                                        SPH Media General Terms and Conditions and guidelines are available for your reference. Please click to read more.                                     </div>
+                                    <a href="https://msdx-frontend-uat.sph.com.sg/tnc/general_advertising/" class="item-link">
+                                        <span class="item-link-arrow"></span>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </section>
+
+    <p>The post <a href="https://msdx-frontend-uat.sph.com.sg/uncategorised/overwhelming-response-for-shin-min-timeless-promise-20/">Overwhelming response for Shin Min Timeless Promise</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
+	
+	</item>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-15/">
+	<title>Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-15/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2024-06-20T08:23:08Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975. “We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-15/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<p>PETALING JAYA - Malaysian lawyer Mathew Thomas Philip is working with a group of lawyers on a pro bono class action lawsuit by Malaysian artistes and vendors against British pop-rock band The 1975.</p>
+
+
+
+<p>“We are putting our hearts and minds to improving the first working draft of the class action,” said Mr Philip in a post on his Facebook account on Sunday.</p>
+
+
+
+<p>“If there is any further information that you may possess and which may have a bearing on the suit against The 1975 such as the location of their assets, please contact our pro bono team,” he added.</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/malaysian-lawyers-working-on-a-class-action-to-help-artistes-vendors-sue-british-band-the-1975-15/">Malaysian lawyers working on a class action to help artistes, vendors sue British band The 1975</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
+	
+	</item>
+<item rdf:about="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers-5/">
+	<title>Berita Harian&#8217;s Achiever of The Year 2022 Awards Honour Exemplary Malay-Muslim Achievers</title>
+	<link>https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers-5/</link>
+
+	<dc:creator><![CDATA[]]></dc:creator>
+	<dc:date>2024-06-20T08:23:08Z</dc:date>
+			<dc:subject><![CDATA[Media Releases]]></dc:subject>
+
+			<description><![CDATA[<p><img width="768" height="432" src="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2022/11/berita-harian-achiever-of-the-year-2022-768x432.webp" class="attachment-medium_large size-medium_large wp-post-image" alt="" decoding="async" loading="lazy" srcset="http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2022/11/berita-harian-achiever-of-the-year-2022-768x432.webp 768w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2022/11/berita-harian-achiever-of-the-year-2022-300x169.webp 300w, http://s3-dsgm-msd-uat.s3.ap-southeast-1.amazonaws.com/uploads/2022/11/berita-harian-achiever-of-the-year-2022.webp 800w" sizes="(max-width: 768px) 100vw, 768px" />Berita Harian has named Associate Professor Hadijah Rahmat as Berita Harian’s Achiever of the Year&#160;(Anugerah Jauhari Berita Harian), and Mr Lee Syafiq Muhd Ridzuan Lee as Berita Harian’s Young Achiever of the Year&#160;(Anugerah Jauhari Harapan Berita Harian)&#160;in its 24th edition of the annual awards to honour the contributions of outstanding individuals in our Malay/Muslim community. [&#8230;]</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers-5/">Berita Harian&#8217;s Achiever of The Year 2022 Awards Honour Exemplary Malay-Muslim Achievers</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></description>
+		<content:encoded><![CDATA[
+<p>Berita Harian has named Associate Professor Hadijah Rahmat as Berita Harian’s Achiever of the Year&nbsp;<em>(Anugerah Jauhari Berita Harian)</em>, and Mr Lee Syafiq Muhd Ridzuan Lee as Berita Harian’s Young Achiever of the Year&nbsp;<em>(Anugerah Jauhari Harapan Berita Harian)</em>&nbsp;in its 24th edition of the annual awards to honour the contributions of outstanding individuals in our Malay/Muslim community.</p>
+
+
+
+<p>The Achiever of the Year Award honours exemplary individuals, aged 31 years and above, or organisations who have made a mark in their field. Head of the Asian Languages and Cultures Academic Group at National Institute of Education, Nanyang Technological University, Associate Professor Hadijah Rahmat, 64, was named this year’s Achiever of the Year for making significant contributions to the literary community throughout 35 years of her professional career. She has also achieved outstanding achievements in multidisciplinary research-teaching-writing approaches. On the award, she said: “My philosophy is to ‘just do and try my best to help others and the society without expecting anything in return’. This award is a pleasant surprise. I feel humbled and grateful for it. Alhamdullillah. Thank you very much, Berita Harian for this recognition and honour.”</p>
+
+
+
+<p>On the other hand, the Young Achiever of the Year Award recognises individuals, aged 30 years and below, who have the verve to strive for success and contribute to the society. Mr Lee Syafiq Muhd Ridzuan Lee, 30, clinched this award for his perseverance to sustain and expand his hawker business during the Covid-19 pandemic in 2020. To date, he owns six gourmet burger outlets in Singapore and one outlet in New York. He said: “This award came as a huge surprise to me as I did not expect to be awarded with such a prestigious title and award. It is an honour to be able to receive it and to represent the younger generation of entrepreneurs who are working hard to achieve their goals and ambition especially in a hawker setting. ‘Sikit sikit jadi bukit’&nbsp;<em>(Translation: "Little by little it becomes a hill")</em>.”</p>
+
+
+
+<p>This year, to celebrate its 65th anniversary, Berita Harian also presented the Lifetime Achiever&nbsp;<em>(Anugerah Jauhari Pencapaian Sepanjang Hayat Berita Harian)</em>&nbsp;Award that recognises individuals for their lifetime accomplishments. This award was presented to the grandfather of Malay songs in Southeast Asia, 85-year-old Mohamed Noor Mohamed Yusofe. Better known as Yusnor Ef, he had penned hundreds of Malay songs. Mr Yusnor said: “I feel honoured and very happy with this recognition. I hope to set an example to the younger generations through my works, to always remember the past, create the present and inspire the future”. Please see Annex for more information on the awards and the winners.</p>
+
+
+
+<p>The awards ceremony was held at Four Seasons Hotel and graced by Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong.</p>
+
+
+
+<p>Mr Saat Abdul Rahman, Editor of Berita Harian, said: “We are delighted to present Berita Harian’s Achiever of the Year Award to Malay language and culture educational expert and highly recognised literary author, Associate Professor Hadijah Rahmat, and Young Achiever of the Year Award to ‘hawkerpreneur’ and founder of Ashes Burnnit, Lee Syafiq Muhd Ridzuan Lee. The awards honour inspiring individuals who empower our next generation. The recipients have displayed the grit and tenacity to become role models in their respective fields. Associate Professor Hadijah Rahmat has published books and works blending academic insights with artistic expressions, while Lee Syafiq represents the new wave of next-generation ‘hawkerpreneur’. This year, we are also happy to present the Berita Harian’s Lifetime Achiever Award to Yusnor Ef for his dedication in Malay music.”</p>
+
+
+
+<p>Ms Elaine Heng, Deputy Group CEO and CEO of Retail Business, the FairPrice Group, who presented the Young Achiever of the Year Award, said: “FairPrice Group is pleased to be part of Berita Harian’s Young Achiever of the Year Award 2022 to recognise the significant contributions of talented youths who have made a difference to our society. As a social enterprise, we continue to support this award as we share Berita Harian’s common purpose of empowering our Malay/Muslim community to achieve excellence and success.”</p>
+
+
+
+<p>The Berita Harian’s Achiever of the Year 2022 Awards is organised by Berita Harian, with support from NTUC Fairprice as its main sponsor.</p>
+
+
+
+<p><em><strong>Attachments:</strong></em><br><em>1.&nbsp;<a href="https://msdx-uat.sph.com.sg/wp-content/uploads/2022/12/Annex-Berita-Harian-Achiever-of-the-Year-2022-Awards.pdf" target="_blank" rel="noreferrer noopener">Annex - Berita Harian Achiever of the Year 2022 Awards</a></em><br>2.&nbsp;<em><a href="https://msdx-uat.sph.com.sg/wp-content/uploads/2022/12/Associate-Professor-Hadijah-Rahmat-BH-Achiever-of-the-Year-2022-With-Trophy.jpg" target="_blank" rel="noreferrer noopener">Photo - Associate Professor Hadijah Rahmat, Berita Harian Achiever of the Year 2022</a></em><br>3.&nbsp;<em><a href="https://msdx-uat.sph.com.sg/wp-content/uploads/2022/12/Lee-Syafiq-Muhd-Ridzuan-Lee-BH-Young-Achiever-of-the-Year-2022-Half-Angle.jpg" target="_blank" rel="noreferrer noopener">Photo - Lee Syafiq Muhd Ridzuan Lee, Berita Harian Young Achiever of the Year 2022</a></em><br>4.&nbsp;<em><a href="https://msdx-uat.sph.com.sg/wp-content/uploads/2022/12/Mohamed-Noor-Mohamed-Yusofe-BH-Lifetime-Achiever-of-the-Year-2022-Side-View.jpg" target="_blank" rel="noreferrer noopener">Photo - Mohamed Noor Mohamed Yusofe, Berita Harian Lifetime Achiever of the Year 2022</a></em><br><em>(Photos to be credited to Berita Harian)</em></p>
+
+
+
+<p><strong>Issued by SPH Media</strong></p>
+
+
+
+<p>For media queries, please contact:<br>Lotus Ong<br>Corporate Communications &amp; CSR<br>SPH Media<br>DID: 6319 1707<br>Email:&nbsp;<a href="mailto:lotusong@sph.com.sg">lotusong@sph.com.sg</a></p>
+
+
+
+<p><strong>About SPH Media</strong></p>
+
+
+
+<p>SPH Media is a leading media group, with operations in the publishing of newspapers, magazines, and books in both print and digital editions. It also owns and operates other businesses such as radio stations and outdoor media. The mission of SPH Media is to be the trusted source of news on Singapore and Asia, to represent the communities that make up Singapore, and to connect them to the world. The businesses are held by SPH Media Trust, a public company limited by guarantee. For more information on SPH Media, please visit <a href="https://www.sph.com.sg/" target="_blank" rel="noreferrer noopener">www.sph.com.sg</a>, and our social media channels on <a href="https://www.facebook.com/SPHMediaLtd" target="_blank" rel="noreferrer noopener">Facebook</a>, <a href="https://www.instagram.com/SPHMediaTrust/" target="_blank" rel="noreferrer noopener">Instagram</a>, <a href="https://www.linkedin.com/company/sphmedia?originalSubdomain=sg" target="_blank" rel="noreferrer noopener">LinkedIn</a>, and <a href="https://www.youtube.com/c/SPHMediaTrust" target="_blank" rel="noreferrer noopener">YouTube</a>.</p>
+<p>The post <a href="https://msdx-frontend-uat.sph.com.sg/media-centre/media-releases/berita-harians-achiever-of-the-year-2022-awards-honour-exemplary-malay-muslim-achievers-5/">Berita Harian&#8217;s Achiever of The Year 2022 Awards Honour Exemplary Malay-Muslim Achievers</a> appeared first on <a href="https://msdx-frontend-uat.sph.com.sg">SPH Media</a>.</p>
+]]></content:encoded>
 	
 	</item>
 </rdf:RDF>
